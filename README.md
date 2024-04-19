@@ -23,7 +23,7 @@
      <img width="90" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
      <img width="60" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> 
      <img width="79" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity">
-     <img width="40" src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp">
+     <img width="38" src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp">
 </p>
 
 ***
