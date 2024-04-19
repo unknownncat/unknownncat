@@ -1,4 +1,4 @@
-<img align="right" style="margin-left: 10px" width="350" src="https://c.tenor.com/ZQndYO4NwBcAAAAC/tenor.gif">
+<img align="right" src="https://media2.giphy.com/media/cKtQKy2VylZC0/giphy.gif?cid=ecf05e47ev7qxe8jyadj44whujjqb5pc8bk2rfl1zyesewhw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <div align="center">
 
 ### Hello world!
