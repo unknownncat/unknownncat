@@ -1,5 +1,5 @@
 
-<img align="right" width="300" src="https://c.tenor.com/ZQndYO4NwBcAAAAC/tenor.gif">
+<img align="right" width="350" src="https://c.tenor.com/ZQndYO4NwBcAAAAC/tenor.gif">
 
 <div align="center">
 
