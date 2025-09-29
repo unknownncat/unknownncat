@@ -15,18 +15,14 @@
      <img width="111" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
      <img width="90" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
      <img width="90" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-     <img width="60" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> 
-     <img width="79" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity">
-     <img width="38" src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp">
+     <img width="60" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 </p>
 
 ### Languages 
 <p>
-<img width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img width="70" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img width="125" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img width="125" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img width="80" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />     
 </p>
 
@@ -40,10 +36,6 @@
      <img width="81" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
      <img width="110" src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=Socket.io"/>
      <img width="110" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-     <img width="77" src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white"/>
-     <img width="105" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
-     <img width="77" src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white"/>
-     <img width="125" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
      <img width="105" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
