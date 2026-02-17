@@ -20,7 +20,6 @@
 
 ### Languages 
 <p>
-<img width="70" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img width="125" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img width="125" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />   
 </p>
@@ -64,7 +63,6 @@
 
 <p align="center">
      <img width="180" src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=visualstudiocode"/>
-     <img width="180" src="https://img.shields.io/badge/-Windows Terminal-black?style=flat-square&logo=windowsterminal"/>
 </p>
 
 ***
