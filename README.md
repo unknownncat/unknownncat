@@ -1,5 +1,3 @@
-![GitHubCard](https://githubcard.com/unknownncat.svg)
-
 ## Minhas Habilidades
 
 ### Linguagens e Ferramentas
@@ -37,10 +35,18 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=unknownncat&theme=highcontrast&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=unknownncat&theme=highcontrast&locale=pt_BR" 
+      alt="GitHub Streak" 
+    />
+  </a>
+
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownncat&theme=github_dark" 
+    alt="GitHub Profile Summary" 
+  />
 </div>
 
 
 ---
-
-  ![GitHub Repo Card](https://githubcard.com/unknownncat/swt-libsignal.svg)
