@@ -1,72 +1,46 @@
+![GitHubCard](https://githubcard.com/unknownncat.svg)
+
+## Minhas Habilidades
+
+### Linguagens e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Frameworks e Bibliotecas
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+
+### Cloud e Deploy
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+### Bancos de Dados e ORM
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+### IDE
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Estatísticas do GitHub
+
 <div align="center">
-
-### Hello world!
-
-> Esse é o meu perfil no github
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=unknownncat&theme=highcontrast&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
-***
 
-### Skills
+---
 
-<p>
-     <img width="111" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-     <img width="111" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
-     <img width="90" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-     <img width="90" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-     <img width="60" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-</p>
-
-### Languages 
-<p>
-<img width="125" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img width="125" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />   
-</p>
-
-***
-
-### Frameworks & Library 
-
-<p>
-     <img width="113" src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express">
-     <img width="91" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js">
-     <img width="81" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
-     <img width="110" src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=Socket.io"/>
-     <img width="105" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-***
-
-### Cloud 
-<p>
-          <img width="90" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-          <img width="95" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
-
-### Database
-<p>
-     <img width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-     <img width="105" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### ORM
-<p>
-     <img width="90" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-</p>
-
-***
-
-
-### IDE & Terminal
-
-<p align="center">
-     <img width="180" src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=visualstudiocode"/>
-</p>
-
-***
-
-<img src="https://64.media.tumblr.com/196e5caf117c379ca8b4138f5061a9f2/tumblr_oz3l83lbxW1vghtqoo2_1280.gif">
- 
-</div>
-
-***
+  ![GitHub Repo Card](https://githubcard.com/unknownncat/swt-libsignal.svg)
