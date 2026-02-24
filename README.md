@@ -31,17 +31,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=unknownncat&theme=highcontrast&locale=pt_BR" 
-      alt="GitHub Streak" 
-    />
-  </a>
-</div>
-
-
----
