@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://github.com/unknownncat/swt-libsignal"><img src="https://gh-card.dev/repos/unknownncat/swt-libsignal.svg?fullname="></a>
 </div>
+
 ## Minhas Habilidades
 
 ### Linguagens e Ferramentas
